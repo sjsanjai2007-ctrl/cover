@@ -33,9 +33,6 @@ Publish the website in the LocalHost.
 
 ## PROGRAM:
 
-
-## OUTPUT:
-
 ~~~
 
 <!DOCTYPE html>
@@ -179,6 +176,8 @@ input[type="submit"]:hover {
 }
 
 ~~~
+
+## OUTPUT:
 
 ![alt text](<Screenshot 2025-12-19 155643.png>)
 
